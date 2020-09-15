@@ -1,2 +1,2 @@
 # Atcoder
-# Atcoder Contest Questions and their Solutions :)
+Atcoder Contest Questions and their Solutions :)
